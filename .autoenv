@@ -1,0 +1,3 @@
+echo "python pyenv > django-study"
+pyenv shell env-django-study
+pyenv activate
