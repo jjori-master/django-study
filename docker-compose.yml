@@ -1,0 +1,9 @@
+version: '3.2'
+
+services:
+  django-study:
+    restart: always
+    container_name: django-study
+    build:
+      context: .
+      dockerfile: ./docker/Dockerfile
