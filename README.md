@@ -1,5 +1,5 @@
 
 
+#### 개요
 
-#### 참고 자료
-- [django orm cookbook](https://django-orm-cookbook-ko.readthedocs.io/en/latest/introduction.html)
+Django 공부를 위한 저장소입니다.
